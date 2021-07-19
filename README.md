@@ -1,4 +1,4 @@
-# DSML-MMA_TEE Team Reporitory
+# DSML-MMA_TEE Team Repository
 ***
 Description for the files:
 - DSML_Team_Code_MMA_TEE.ipynb:   JupyterNotebook  
